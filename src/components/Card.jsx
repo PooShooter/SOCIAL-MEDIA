@@ -1,5 +1,4 @@
-import React from 'react'
-import { CiHeart } from 'react-icons/ci'
+
 import { IoChatbubbleOutline, IoHeartOutline, IoPaperPlaneOutline } from 'react-icons/io5'
 
 const Card = (props) => {
